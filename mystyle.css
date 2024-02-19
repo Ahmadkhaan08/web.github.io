@@ -1,0 +1,34 @@
+h1{
+    background-color: lightseagreen;
+    text-align: center;
+    padding: 20px;
+}
+nav{
+    background-color: black;
+    overflow: hidden;
+}
+a{
+    color: aliceblue;
+}
+nav a{
+    padding: 20px;
+    text-align: center;
+    float: left;
+}
+nav a:hover{
+    color: brown;
+}
+h3{
+    background-color:lightseagreen;
+    text-align: center;
+    padding: 10px;
+}
+div{
+    background-color: lightgrey;
+    margin: 10px;
+    padding: 2px;
+    border-radius: 12px ;
+}
+.active {
+    background-color: darkcyan;
+  }
